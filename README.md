@@ -1,47 +1,46 @@
-Deployed link- https://incomparable-lily-76c19a.netlify.app/
-# gaiA - Web3 Marketplace
+# gaiA — Web3 Marketplace 
+``
+2025 May
+``
 
-A sustainable Web3-powered marketplace platform that connects conscious investors with verified environmental projects, making positive impact accessible and transparent.
+A sustainability-focused Web3 marketplace prototype built around conscious consumption, environmental impact, and community.
 
-## Features
+Made this project mainly because I wanted to experiment with Web3 while building something that felt meaningful and fun to work on. The idea was to create a platform where sustainable choices could be connected with digital ownership, community participation, and rewards.
 
-- **Web3 Integration**: Secure blockchain-powered transactions
-- **Sustainable Impact**: Make a positive environmental impact while trading
-- **Freelancer Platform**: Connect with skilled repair experts and artisans
-- **NFT Rewards**: Earn unique NFTs for sustainable trading practices
-- **Community Driven**: Join a thriving community of conscious traders
+## What it does
 
-## Technologies Used
+- **Sustainable Marketplace** — Browse and trade items with sustainability in mind
+- **Web3 Integration** — Blockchain-based interactions with MetaMask
+- **NFT Rewards** — Reward sustainable participation through digital collectibles
+- **Freelancer Platform** — Connect users with repair experts and artisans
+- **Community** — A space for users interested in sustainable living and conscious trading
+- **Environmental Impact** — Designed around making sustainable choices more accessible and transparent
+
+## Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript
 - Web3.js
-- MetaMask Integration
-
-## Getting Started
-
-1. Clone the repository:
-```bash
-git clone https://github.com/anushkayadav0901/GaiaNew.git
-```
-
-2. Open `index.html` in your web browser
-
-3. Connect your MetaMask wallet to start trading
+- MetaMask
+- Netlify
 
 ## Pages
 
-- Home (`index.html`)
+- Home
 - Marketplace
 - Community
 - For Freelancers
 - Sell an Item
 
-## Contributing
+## Live Demo
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+**[gaiA — Web3 Marketplace](https://incomparable-lily-76c19a.netlify.app/)**
 
-## License
+## Running Locally
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Clone the repository:
+
+```bash
+git clone https://github.com/aziraxariza/GaiA-hackemon.git
+cd GaiA-hackemon
